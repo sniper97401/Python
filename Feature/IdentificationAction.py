@@ -4,3 +4,4 @@ def definePseudo():
     while (len(pseudo) < 2):
         print('Votre pseudo n\'est pas conforme')
         pseudo = input()
+    return pseudo
