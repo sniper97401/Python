@@ -23,6 +23,8 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Documents/Projet/Python" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -70,7 +72,11 @@
       <workItem from="1584015111452" duration="7045000" />
       <workItem from="1584033617717" duration="131000" />
       <workItem from="1584033775122" duration="6402000" />
-      <workItem from="1584075106688" duration="8347000" />
+      <workItem from="1584075106688" duration="9745000" />
+      <workItem from="1584089450472" duration="60000" />
+      <workItem from="1584089867155" duration="328000" />
+      <workItem from="1584090525600" duration="12585000" />
+      <workItem from="1584110220727" duration="3481000" />
     </task>
     <servers />
   </component>
@@ -82,9 +88,22 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="498" y="242" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1584024324163" />
-    <state x="498" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1584075341792">
+    <state x="499" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584093156812">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="498" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584075341792" />
+    <state x="499" y="182" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1584093156812" />
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1584088989859">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584088989859" />
+    <state x="279" y="78" key="SettingsEditor" timestamp="1584108702088">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="279" y="78" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1584108702088" />
+    <state x="498" y="257" width="873" height="515" key="com.intellij.ide.util.TipDialog" timestamp="1584110339378">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="155" y="115" width="873" height="515" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1584089992846" />
+    <state x="498" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1584110339378" />
   </component>
 </project>
